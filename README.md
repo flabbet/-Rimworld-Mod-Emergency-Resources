@@ -1,3 +1,5 @@
+![](https://github.com/flabbet/-Rimworld-Mod-Emergency-Resources/blob/master/About/Preview.png)
+
 # Emergency Resources
 
 is Rimworld mod that allows to call for resource pods with resources needed to survive.
