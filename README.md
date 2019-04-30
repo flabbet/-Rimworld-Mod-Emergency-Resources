@@ -2,7 +2,7 @@
 
 # Emergency Resources
 
-is Rimworld mod that allows to call for resource pods with resources needed to survive.
+is Rimworld mod that allows to call for transport pods with resources needed to survive.
 
 ## [Download directly](https://github.com/flabbet/-Rimworld-Mod-Emergency-Resources/releases/download/1.0.0/EmergencyResources.rar)
 
