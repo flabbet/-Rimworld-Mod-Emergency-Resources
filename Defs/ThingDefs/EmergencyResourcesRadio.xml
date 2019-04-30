@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+  <ThingDef ParentName="OrbitalWeaponBase">
+    <defName>EmergencyResourcesRadio</defName>
+    <label>emergency resources radio</label>
+    <description>Summons transport pods with basic resources like medicines, wood and food. Emergency Radio to save your colony from tragedy. Use in real need.</description>
+    <statBases>
+      <MarketValue>1500</MarketValue>
+    </statBases>
+    <tradeability>All</tradeability>
+    <verbs>
+      <li>
+        <verbClass>Emergency_Resources.VerbEmergencyRadio</verbClass>
+        <hasStandardCommand>true</hasStandardCommand>
+        <warmupTime>3</warmupTime>
+        <ai_AvoidFriendlyFireRadius>15</ai_AvoidFriendlyFireRadius>
+        <range>50</range>
+        <burstShotCount>1</burstShotCount>
+        <soundAiming>OrbitalTargeter_Aiming</soundAiming>
+        <soundCast>OrbitalTargeter_Fire</soundCast>
+        <onlyManualCast>true</onlyManualCast>
+        <targetParams>
+          <canTargetLocations>true</canTargetLocations>
+        </targetParams>
+      </li>
+    </verbs>
+  </ThingDef>
+</Defs>
