@@ -2,4 +2,8 @@
 
 is Rimworld mod that allows to call for resource pods with resources needed to survive.
 
-Link to [steam workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=1728150743) 
+## [Download directly](https://github.com/flabbet/-Rimworld-Mod-Emergency-Resources/releases/download/1.0.0/EmergencyResources.rar)
+
+or
+
+### Get it from [steam workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=1728150743) 
