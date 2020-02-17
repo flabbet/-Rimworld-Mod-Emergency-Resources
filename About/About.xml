@@ -5,6 +5,7 @@
   <packageId>flabbet.EmergencyResources</packageId>
   <supportedGameVersions>
     <li>1.1</li>
+    <li>1.0</li>
   </supportedGameVersions>
   <description>
     Emergency Resources will save your colony in critial need.
