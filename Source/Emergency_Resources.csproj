@@ -38,6 +38,7 @@
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release -quicktest|AnyCPU' ">
     <StartArguments>-quicktest</StartArguments>
     <Prefer32Bit>false</Prefer32Bit>
+    <OutputPath>..\Assemblies\</OutputPath>
   </PropertyGroup>
   <PropertyGroup>
     <StartAction>Program</StartAction>
@@ -58,7 +59,8 @@
       <HintPath>..\..\..\RimWorldWin64_Data\Managed\UnityEngine.dll</HintPath>
       <Private>False</Private>
     </Reference>
-    <None Include="..\About\**" />
+    <None Include="..\About\About.xml" />
+    <None Include="..\About\Preview.png" />
     <None Include="..\Defs\**" />
     <None Include="..\Languages\**" />
     <None Include="..\Patches\**" />
