@@ -3,10 +3,10 @@
   <name>Emergency Resources</name>
   <author>flabbet</author>
   <packageId>flabbet.EmergencyResources</packageId>
-  <supportedGameVersions>
+  <supportedVersions>
     <li>1.1</li>
     <li>1.0</li>
-  </supportedGameVersions>
+  </supportedVersions>
   <description>
     Emergency Resources will save your colony in critial need. Adds item to summon resource pods with base resources.
   </description>
